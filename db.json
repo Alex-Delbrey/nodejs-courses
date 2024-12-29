@@ -1,27 +1,3 @@
 {
-  "notes": [
-    {
-      "tags": [
-        "work",
-        " serious"
-      ],
-      "id": 1735350807433,
-      "content": "clean my room"
-    },
-    {
-      "tags": [
-        "school",
-        " seriuos"
-      ],
-      "id": 1735352965102,
-      "content": "do hw"
-    },
-    {
-      "tags": [
-        "clean"
-      ],
-      "id": 1735353442556,
-      "content": "clean car"
-    }
-  ]
+  "notes": []
 }
