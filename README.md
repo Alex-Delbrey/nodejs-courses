@@ -3,13 +3,13 @@ CLI app for note taking. Basic CRUD app for note taking, stores/updates everythi
 
 Example of commands:
 
-##Creating a new note:\n
+##Creating a new note:<br />
 `note new "clean room" --tags "important"`
-##List all notes:\n
+##List all notes:<br />
 `note all`
-##Finding a specific note:
+##Finding a specific note:<br />
 `note find "clean"`
-##Removing a note:
+##Removing a note:<br />
 `note remove "<id of note>"`
-##Removing all notes:
+##Removing all notes:<br />
 `note clean`
