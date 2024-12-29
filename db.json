@@ -1,3 +1,24 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [
+        "organize",
+        " productive"
+      ],
+      "id": 1735512098698,
+      "content": "Clean my room"
+    },
+    {
+      "tags": [
+        "organize"
+      ],
+      "id": 1735512113811,
+      "content": "Clean my car"
+    },
+    {
+      "tags": [],
+      "id": 1735512132679,
+      "content": "Go to Yauco"
+    }
+  ]
 }
