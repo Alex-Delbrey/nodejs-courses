@@ -3,6 +3,7 @@ CLI app for note taking. Basic CRUD app for note taking, stores/updates everythi
 
 Example of commands:
 
+CLI also contains a help command<br />
 ##Creating a new note:<br />
 `note new "clean room" --tags "important"`<br />
 ##List all notes:<br />
@@ -12,4 +13,6 @@ Example of commands:
 ##Removing a note:<br />
 `note remove "<id of note>"`<br />
 ##Removing all notes:<br />
-`note clean`
+`note clean`<br />
+##Running Server:<br />
+`note web`
