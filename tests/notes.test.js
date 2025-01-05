@@ -21,11 +21,11 @@ test('new note inserts data and returns it', async () => {
     id: 1,
     tags: ['hello']
   }
-  insertDB.mockResolvedValue(note)
+  insertDB.mockResolvedValue(note);
 
   const result = await newNote(note.content, note.tags)
-  expect(result.content).toEqual(note.content)
-  expect(result.tags).toEqual(note.tags)
+  expect(result.content).toEqual(note.content);
+  expect(result.tags).toEqual(note.tags);
 })
 
 test('getAllNotes returns all notes', async () => {
